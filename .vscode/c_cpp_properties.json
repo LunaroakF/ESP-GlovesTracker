@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "E:/work/VS/IDF/ESP8266 GlovesTracker/include",
-                "E:/work/VS/IDF/ESP8266 GlovesTracker/src",
+                "E:/work/VS/IDF/ESP32S3 GlovesTracker/include",
+                "E:/work/VS/IDF/ESP32S3 GlovesTracker/src",
                 "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM",
-                "E:/work/VS/IDF/ESP8266 GlovesTracker/lib/RunningMedian",
+                "E:/work/VS/IDF/ESP32S3 GlovesTracker/lib/RunningMedian",
                 "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                 "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src",
                 "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
@@ -19,7 +19,6 @@
                 "C:/Users/small/.platformio/packages/toolchain-xtensa/include",
                 "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip2/include",
                 "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/variants/d1_mini",
-                "E:/work/VS/IDF/ESP8266 GlovesTracker/.pio/libdeps/d1_mini/Unity/src",
                 "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA",
                 "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src",
                 "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src",
@@ -59,10 +58,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "E:/work/VS/IDF/ESP8266 GlovesTracker/include",
-                    "E:/work/VS/IDF/ESP8266 GlovesTracker/src",
+                    "E:/work/VS/IDF/ESP32S3 GlovesTracker/include",
+                    "E:/work/VS/IDF/ESP32S3 GlovesTracker/src",
                     "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM",
-                    "E:/work/VS/IDF/ESP8266 GlovesTracker/lib/RunningMedian",
+                    "E:/work/VS/IDF/ESP32S3 GlovesTracker/lib/RunningMedian",
                     "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                     "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src",
                     "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
@@ -70,7 +69,6 @@
                     "C:/Users/small/.platformio/packages/toolchain-xtensa/include",
                     "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip2/include",
                     "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/variants/d1_mini",
-                    "E:/work/VS/IDF/ESP8266 GlovesTracker/.pio/libdeps/d1_mini/Unity/src",
                     "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA",
                     "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src",
                     "C:/Users/small/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src",
